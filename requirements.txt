@@ -1,7 +1,9 @@
 fastapi
+gunicorn
 uvicorn
 pandas
 yfinance
 matplotlib
 statsmodels
 aiofiles
+
